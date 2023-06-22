@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hey%20👋,%20This%20is%20Hyunjung%20Kim%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi%20👋,%20This%20is%20Hyunjung%20Kim%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=200)
 
 ### :raising_hand: Follow Me 
 
@@ -35,4 +35,5 @@
 ### :sunglasses: LeetCode 
 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=hj88)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
 </div>
